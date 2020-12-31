@@ -5,6 +5,9 @@
 此代码作为挨踢茶馆云计算的[《AWS 认证解决方案架构师》](https://iteablue.com/course/aws-certified-solutions-architect-associate) 课程的实验部分提供。
 
 # 效果
+Demo 网站：http://iteablue-s3-static-website.s3-website-ap-northeast-1.amazonaws.com/
+
 以下为网站的效果图：
+
 
 ![效果图](demo.jpg)
